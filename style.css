@@ -67,6 +67,7 @@ h5 {
   justify-content: space-evenly;
   width: 1200px;
   margin: 0 auto;
+  padding-left: 0;
 }
 
 .nav-bar ul li {
